@@ -1,3 +1,3 @@
 # OverTheWire
 
-[a relative link](BANDIT.md)
+[BANDIT](BANDIT.md)
